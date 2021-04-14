@@ -1,0 +1,1261 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wayup 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-09-12 14:31+0300\n"
+"PO-Revision-Date: 2019-09-12 14:32+0300\n"
+"Last-Translator: \n"
+"Language-Team: wayup team\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html_e:1;esc_html__:1;__:1;_e:1;esc_attr__:1;"
+"esc_attr_e:1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive-news.php:45
+msgid "Поделиться:"
+msgstr "Share:"
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:47
+msgid "Header Navigation"
+msgstr ""
+
+#: functions.php:48
+msgid "Footer Navigation 1"
+msgstr ""
+
+#: functions.php:49
+msgid "Footer Navigation 2"
+msgstr ""
+
+#: functions.php:50
+msgid "Language Switcher"
+msgstr ""
+
+#: functions.php:310
+msgid "Новости"
+msgstr "News"
+
+#: functions.php:311
+msgid "Новость"
+msgstr "News"
+
+#: functions.php:358
+msgid "Service Type"
+msgstr ""
+
+#: functions.php:367
+msgid "News Category"
+msgstr ""
+
+#: functions.php:376
+msgid "Case Type"
+msgstr ""
+
+#: functions.php:522
+msgid "No products found"
+msgstr ""
+
+#: functions.php:541
+msgid "Phone"
+msgstr ""
+
+#: functions.php:545
+msgid "Name"
+msgstr ""
+
+#: functions.php:555 functions.php:558
+msgid "ERROR"
+msgstr ""
+
+#: functions.php:555
+msgid "You must include a phone."
+msgstr ""
+
+#: functions.php:558
+msgid "You must include a first name."
+msgstr ""
+
+#: header.php:166
+msgid "Show navigation"
+msgstr ""
+
+#: header.php:167
+msgid "Hide navigation"
+msgstr ""
+
+#: header.php:196
+msgid "Бесплатная консультация"
+msgstr "Free consultation"
+
+#: inc/breadcrumbs.php:5
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:6
+msgid "Archive"
+msgstr ""
+
+#: inc/breadcrumbs.php:7
+msgid "Search results"
+msgstr ""
+
+#: inc/breadcrumbs.php:8
+msgid "Tag"
+msgstr ""
+
+#: inc/breadcrumbs.php:9
+msgid "Author"
+msgstr ""
+
+#: inc/breadcrumbs.php:10
+msgid "Error 404"
+msgstr ""
+
+#: inc/breadcrumbs.php:137
+msgid "Page"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Фон логотипа"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Выбрать цвет"
+msgstr ""
+
+#: inc/functions/woo.php:75
+msgid "N/A"
+msgstr ""
+
+#: inc/functions/wpbakery.php:8
+msgid "Инфо О Компании"
+msgstr "About Company"
+
+#: inc/functions/wpbakery.php:10 inc/functions/wpbakery.php:92
+#: inc/functions/wpbakery.php:173 inc/functions/wpbakery.php:205
+#: inc/functions/wpbakery.php:427 inc/functions/wpbakery.php:518
+#: inc/functions/wpbakery.php:564 inc/functions/wpbakery.php:603
+#: inc/functions/wpbakery.php:635 inc/functions/wpbakery.php:667
+msgid "Wayup"
+msgstr ""
+
+#: inc/functions/wpbakery.php:11
+msgid "Введите данные о компании"
+msgstr ""
+
+#: inc/functions/wpbakery.php:18 inc/functions/wpbakery.php:100
+#: inc/functions/wpbakery.php:213 inc/functions/wpbakery.php:435
+#: inc/functions/wpbakery.php:526 inc/functions/wpbakery.php:572
+#: inc/functions/wpbakery.php:611 inc/functions/wpbakery.php:643
+msgid "Заголовок 1"
+msgstr ""
+
+#: inc/functions/wpbakery.php:20 inc/functions/wpbakery.php:528
+msgid "Почему мы –"
+msgstr "Why we -"
+
+#: inc/functions/wpbakery.php:21 inc/functions/wpbakery.php:28
+#: inc/functions/wpbakery.php:63 inc/functions/wpbakery.php:70
+#: inc/functions/wpbakery.php:77 inc/functions/wpbakery.php:103
+#: inc/functions/wpbakery.php:110 inc/functions/wpbakery.php:117
+#: inc/functions/wpbakery.php:124 inc/functions/wpbakery.php:131
+#: inc/functions/wpbakery.php:138 inc/functions/wpbakery.php:145
+#: inc/functions/wpbakery.php:152 inc/functions/wpbakery.php:184
+#: inc/functions/wpbakery.php:191 inc/functions/wpbakery.php:216
+#: inc/functions/wpbakery.php:223 inc/functions/wpbakery.php:230
+#: inc/functions/wpbakery.php:237 inc/functions/wpbakery.php:244
+#: inc/functions/wpbakery.php:251 inc/functions/wpbakery.php:258
+#: inc/functions/wpbakery.php:265 inc/functions/wpbakery.php:272
+#: inc/functions/wpbakery.php:279 inc/functions/wpbakery.php:286
+#: inc/functions/wpbakery.php:293 inc/functions/wpbakery.php:300
+#: inc/functions/wpbakery.php:307 inc/functions/wpbakery.php:314
+#: inc/functions/wpbakery.php:321 inc/functions/wpbakery.php:438
+#: inc/functions/wpbakery.php:445 inc/functions/wpbakery.php:452
+#: inc/functions/wpbakery.php:459 inc/functions/wpbakery.php:466
+#: inc/functions/wpbakery.php:474 inc/functions/wpbakery.php:481
+#: inc/functions/wpbakery.php:489 inc/functions/wpbakery.php:496
+#: inc/functions/wpbakery.php:504 inc/functions/wpbakery.php:529
+#: inc/functions/wpbakery.php:536 inc/functions/wpbakery.php:543
+#: inc/functions/wpbakery.php:550 inc/functions/wpbakery.php:575
+#: inc/functions/wpbakery.php:582 inc/functions/wpbakery.php:589
+#: inc/functions/wpbakery.php:614 inc/functions/wpbakery.php:621
+#: inc/functions/wpbakery.php:646 inc/functions/wpbakery.php:653
+msgid "Введите текст"
+msgstr ""
+
+#: inc/functions/wpbakery.php:25 inc/functions/wpbakery.php:107
+#: inc/functions/wpbakery.php:220 inc/functions/wpbakery.php:442
+#: inc/functions/wpbakery.php:533 inc/functions/wpbakery.php:579
+#: inc/functions/wpbakery.php:618 inc/functions/wpbakery.php:650
+msgid "Заголовок 2"
+msgstr ""
+
+#: inc/functions/wpbakery.php:27 inc/functions/wpbakery.php:535
+msgid "ПРАВИЛЬНЫЙ ВЫБОР ДЛЯ ВАС"
+msgstr ""
+
+#: inc/functions/wpbakery.php:32 inc/functions/wpbakery.php:449
+#: inc/functions/wpbakery.php:540 inc/functions/wpbakery.php:586
+msgid "Описание"
+msgstr ""
+
+#: inc/functions/wpbakery.php:35
+msgid "Введите описание"
+msgstr ""
+
+#: inc/functions/wpbakery.php:39
+msgid "Картинка Модуля"
+msgstr ""
+
+#: inc/functions/wpbakery.php:42 inc/functions/wpbakery.php:56
+#: inc/functions/wpbakery.php:159
+msgid "Загрузите картинку"
+msgstr ""
+
+#: inc/functions/wpbakery.php:46
+msgid "Фото автора"
+msgstr ""
+
+#: inc/functions/wpbakery.php:49
+msgid "Загрузите фото"
+msgstr ""
+
+#: inc/functions/wpbakery.php:53
+msgid "Фото подписи"
+msgstr ""
+
+#: inc/functions/wpbakery.php:60
+msgid "Цитата"
+msgstr ""
+
+#: inc/functions/wpbakery.php:62
+msgid "Мы здесь, чтобы помочь вам построить и поддержать свою мечту."
+msgstr ""
+
+#: inc/functions/wpbakery.php:67
+msgid "Имя Автора"
+msgstr ""
+
+#: inc/functions/wpbakery.php:69
+msgid "Дмитрий Львович"
+msgstr ""
+
+#: inc/functions/wpbakery.php:74
+msgid "Должность Автора"
+msgstr ""
+
+#: inc/functions/wpbakery.php:76
+msgid "Директор компании"
+msgstr ""
+
+#: inc/functions/wpbakery.php:90
+msgid "Прогрес Модуль"
+msgstr ""
+
+#: inc/functions/wpbakery.php:93 inc/functions/wpbakery.php:174
+#: inc/functions/wpbakery.php:206
+msgid "Введите данные для модуля"
+msgstr ""
+
+#: inc/functions/wpbakery.php:114
+msgid "Заголовок 3"
+msgstr ""
+
+#: inc/functions/wpbakery.php:121
+msgid "Заголовок 4"
+msgstr ""
+
+#: inc/functions/wpbakery.php:128
+msgid "Значение 1"
+msgstr ""
+
+#: inc/functions/wpbakery.php:135
+msgid "Значение 2"
+msgstr ""
+
+#: inc/functions/wpbakery.php:142
+msgid "Значение 3"
+msgstr ""
+
+#: inc/functions/wpbakery.php:149
+msgid "Значение 4"
+msgstr ""
+
+#: inc/functions/wpbakery.php:156
+msgid "Фото для фона"
+msgstr ""
+
+#: inc/functions/wpbakery.php:171
+msgid "Свяжитесь"
+msgstr ""
+
+#: inc/functions/wpbakery.php:181
+msgid "Заголовок"
+msgstr ""
+
+#: inc/functions/wpbakery.php:188 inc/functions/wpbakery.php:456
+#: inc/functions/wpbakery.php:547
+msgid "Ссылка"
+msgstr ""
+
+#: inc/functions/wpbakery.php:203
+msgid "Офис"
+msgstr ""
+
+#: inc/functions/wpbakery.php:227
+msgid "Главный офис (адрес)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:234
+msgid "Главный офис (фото)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:241
+msgid "Офис в Калининграде (адрес)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:248
+msgid "Офис в Калининграде (фото)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:255
+msgid "Офис в Казани (адрес)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:262
+msgid "Офис в Казани (фото)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:269
+msgid "Офис в Тюмени (адрес)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:276
+msgid "Офис в Тюмени (фото)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:283
+msgid "Офис в Благовещенске (адрес)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:290
+msgid "Офис в Благовещенске (фото)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:297
+msgid "Офис в Норильске (адрес)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:304
+msgid "Офис в Норильске (фото)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:311
+msgid "Офис во Владивостоке (адрес)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:318
+msgid "Офис во Владивостоке (фото)"
+msgstr ""
+
+#: inc/functions/wpbakery.php:364
+msgid "Select or Upload an image."
+msgstr ""
+
+#: inc/functions/wpbakery.php:425
+msgid "Блок Помощи"
+msgstr ""
+
+#: inc/functions/wpbakery.php:428 inc/functions/wpbakery.php:519
+#: inc/functions/wpbakery.php:565 inc/functions/wpbakery.php:604
+#: inc/functions/wpbakery.php:636 inc/functions/wpbakery.php:668
+msgid "Введите данные"
+msgstr ""
+
+#: inc/functions/wpbakery.php:437
+msgid "Кому мы"
+msgstr ""
+
+#: inc/functions/wpbakery.php:444
+msgid "ПОМОГАЕМ"
+msgstr ""
+
+#: inc/functions/wpbakery.php:451
+msgid ""
+"Мы фокусируемся на юридических вопросах, актуальных для успешного "
+"современного бизнеса"
+msgstr ""
+
+#: inc/functions/wpbakery.php:458 inc/functions/wpbakery.php:549
+msgid "#"
+msgstr ""
+
+#: inc/functions/wpbakery.php:463
+msgid "Блок 1 Заголовок"
+msgstr ""
+
+#: inc/functions/wpbakery.php:465
+msgid "Стартапам"
+msgstr ""
+
+#: inc/functions/wpbakery.php:470
+msgid "Блок 1 Описание"
+msgstr ""
+
+#: inc/functions/wpbakery.php:478
+msgid "Блок 2 Заголовок"
+msgstr ""
+
+#: inc/functions/wpbakery.php:480
+msgid "Фрилансеру"
+msgstr ""
+
+#: inc/functions/wpbakery.php:486
+msgid "Блок 2 Описание"
+msgstr ""
+
+#: inc/functions/wpbakery.php:493
+msgid "Блок 3 Заголовок"
+msgstr ""
+
+#: inc/functions/wpbakery.php:495
+msgid "Малому бизнесу"
+msgstr ""
+
+#: inc/functions/wpbakery.php:501
+msgid "Блок 3 Описание"
+msgstr ""
+
+#: inc/functions/wpbakery.php:516
+msgid "Блок Почему Мы?"
+msgstr ""
+
+#: inc/functions/wpbakery.php:562
+msgid "Блок Кейсы"
+msgstr ""
+
+#: inc/functions/wpbakery.php:574 inc/functions/wpbakery.php:645
+msgid "Наши"
+msgstr ""
+
+#: inc/functions/wpbakery.php:581
+msgid "КЕЙСЫ"
+msgstr ""
+
+#: inc/functions/wpbakery.php:588
+msgid ""
+"Кейсы – это описание конкретной ситуации или случая в определённой сфере "
+"юридической практики. Вы можете ознакомиться с конкретными ситуациями, с "
+"которыми сталкивались юристы компании JC"
+msgstr ""
+
+#: inc/functions/wpbakery.php:601
+msgid "Блок Отзывы"
+msgstr ""
+
+#: inc/functions/wpbakery.php:613
+msgid "За нас говорят"
+msgstr ""
+
+#: inc/functions/wpbakery.php:620
+msgid "НАШИ КЛИЕНТЫ"
+msgstr ""
+
+#: inc/functions/wpbakery.php:633
+msgid "Блок Услуги"
+msgstr ""
+
+#: inc/functions/wpbakery.php:652
+msgid "УСЛУГИ"
+msgstr ""
+
+#: inc/functions/wpbakery.php:665
+msgid "Блок Новости"
+msgstr ""
+
+#: inc/options-panel-redux.php:76
+msgid "Wayup Options"
+msgstr ""
+
+#: inc/options-panel-redux.php:77
+msgid "Wayup Super Options"
+msgstr ""
+
+#: inc/options-panel-redux.php:177 inc/options-panel-redux.php:2648
+msgid "Documentation"
+msgstr ""
+
+#: inc/options-panel-redux.php:183
+msgid "Support"
+msgstr ""
+
+#: inc/options-panel-redux.php:189
+msgid "Extensions"
+msgstr ""
+
+#: inc/options-panel-redux.php:227
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: inc/options-panel-redux.php:229
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/options-panel-redux.php:233
+msgid "<p>Thank You.</p>"
+msgstr ""
+
+#: inc/options-panel-redux.php:249
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/options-panel-redux.php:250 inc/options-panel-redux.php:255
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options-panel-redux.php:254
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/options-panel-redux.php:261
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options-panel-redux.php:285
+msgid "Global Settings"
+msgstr ""
+
+#: inc/options-panel-redux.php:287
+msgid "Options for Header and Footer!"
+msgstr ""
+
+#: inc/options-panel-redux.php:292
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/options-panel-redux.php:296
+msgid "Add links profiles for Social "
+msgstr ""
+
+#: inc/options-panel-redux.php:301
+msgid "Social Links"
+msgstr ""
+
+#: inc/options-panel-redux.php:302
+msgid "Insert Links for your Social Profiles."
+msgstr ""
+
+#: inc/options-panel-redux.php:303
+msgid "Let the field empty if don't have a link"
+msgstr ""
+
+#: inc/options-panel-redux.php:316
+msgid "Contact Data"
+msgstr ""
+
+#: inc/options-panel-redux.php:320
+msgid "Add Contacts Data for Header and Footer "
+msgstr ""
+
+#: inc/options-panel-redux.php:325
+msgid "Header Data"
+msgstr ""
+
+#: inc/options-panel-redux.php:331 inc/options-panel-redux.php:365
+msgid "Header Phone Label"
+msgstr ""
+
+#: inc/options-panel-redux.php:332 inc/options-panel-redux.php:366
+msgid "Insert the Label"
+msgstr ""
+
+#: inc/options-panel-redux.php:338
+msgid "Header Phone "
+msgstr ""
+
+#: inc/options-panel-redux.php:339
+msgid "Insert the Phone"
+msgstr ""
+
+#: inc/options-panel-redux.php:353
+msgid "Footer Data"
+msgstr ""
+
+#: inc/options-panel-redux.php:359
+msgid "Your Address"
+msgstr ""
+
+#: inc/options-panel-redux.php:372
+msgid "Contact Phone"
+msgstr ""
+
+#: inc/options-panel-redux.php:373
+msgid "Add your Phones"
+msgstr ""
+
+#: inc/options-panel-redux.php:374
+msgid "Add or remove items"
+msgstr ""
+
+#: inc/options-panel-redux.php:379 woocommerce/single-product-reviews.php:76
+msgid "Email"
+msgstr ""
+
+#: inc/options-panel-redux.php:387
+msgid "Footer Info"
+msgstr ""
+
+#: inc/options-panel-redux.php:388
+msgid "Info after Social Icons"
+msgstr ""
+
+#: inc/options-panel-redux.php:403
+msgid "Copyrights"
+msgstr ""
+
+#: inc/options-panel-redux.php:424
+msgid "Footer Section Headers"
+msgstr ""
+
+#: inc/options-panel-redux.php:430
+msgid "First Section Title"
+msgstr ""
+
+#: inc/options-panel-redux.php:436
+msgid "Second Section Title"
+msgstr ""
+
+#: inc/options-panel-redux.php:442
+msgid "Third Section Title"
+msgstr ""
+
+#: inc/options-panel-redux.php:448
+msgid "Fourth Section Title"
+msgstr ""
+
+#: inc/options-panel-redux.php:460
+msgid "Footer Subscribe Form"
+msgstr ""
+
+#: inc/options-panel-redux.php:466
+msgid "Shortcode for Subscribe plagin"
+msgstr ""
+
+#: inc/options-panel-redux.php:478
+msgid "Home Header"
+msgstr ""
+
+#: inc/options-panel-redux.php:482
+msgid "Add Media files and data for Home Header "
+msgstr ""
+
+#: inc/options-panel-redux.php:488
+msgid "Background for Home Header"
+msgstr ""
+
+#: inc/options-panel-redux.php:490
+msgid "Recomended size 1920px-998px"
+msgstr ""
+
+#: inc/options-panel-redux.php:496
+msgid "Specify the Time"
+msgstr ""
+
+#: inc/options-panel-redux.php:502
+msgid "Specify the video link"
+msgstr ""
+
+#: inc/options-panel-redux.php:512
+msgid "Specify the video title"
+msgstr ""
+
+#: inc/options-panel-redux.php:518
+msgid "Slides Options"
+msgstr ""
+
+#: inc/options-panel-redux.php:519
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: inc/options-panel-redux.php:520
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+
+#: inc/options-panel-redux.php:522
+msgid "This is a title"
+msgstr ""
+
+#: inc/options-panel-redux.php:523
+msgid "Description Here"
+msgstr ""
+
+#: inc/options-panel-redux.php:524
+msgid "Give us a link!"
+msgstr ""
+
+#: inc/options-panel-redux.php:531
+msgid "Modal Windows"
+msgstr ""
+
+#: inc/options-panel-redux.php:535
+msgid "Add data"
+msgstr ""
+
+#: inc/options-panel-redux.php:540
+msgid "Specify the shortcode"
+msgstr ""
+
+#: inc/options-panel-redux.php:547
+msgid "Post Types"
+msgstr ""
+
+#: inc/options-panel-redux.php:549
+msgid "Options for Custom Post Types"
+msgstr ""
+
+#: inc/options-panel-redux.php:554
+msgid "Testimonials"
+msgstr ""
+
+#: inc/options-panel-redux.php:558
+msgid "Data for Testimonials Page "
+msgstr ""
+
+#: inc/options-panel-redux.php:564 inc/options-panel-redux.php:570
+msgid "Specify the Label"
+msgstr ""
+
+#: inc/options-panel-redux.php:576
+msgid "Specify the count of testimonials per page"
+msgstr ""
+
+#: inc/options-panel-redux.php:582
+msgid "Form Shortcode"
+msgstr ""
+
+#: inc/options-panel-redux.php:591
+msgid "Services"
+msgstr ""
+
+#: inc/options-panel-redux.php:595
+msgid "Data for Service  Page "
+msgstr ""
+
+#: inc/options-panel-redux.php:600
+msgid "Specify the Currency"
+msgstr ""
+
+#: inc/options-panel-redux.php:606
+msgid "Заголовок для слайдера из Кейсов"
+msgstr ""
+
+#: inc/options-panel-redux.php:612
+msgid "Заголовок 1 страницы Архив"
+msgstr ""
+
+#: inc/options-panel-redux.php:618
+msgid "Заголовок 2 страницы Архив"
+msgstr ""
+
+#: inc/options-panel-redux.php:624
+msgid "Описание Страницы Архив"
+msgstr ""
+
+#: inc/options-panel-redux.php:636
+msgid "Data for News Page "
+msgstr ""
+
+#: inc/options-panel-redux.php:666
+msgid "Options for Shop Page "
+msgstr ""
+
+#: inc/options-panel-redux.php:690
+msgid "Background for Header"
+msgstr ""
+
+#: inc/options-panel-redux.php:692
+msgid "Download Image"
+msgstr ""
+
+#: inc/options-panel-redux.php:2763
+msgid "Section via hook"
+msgstr ""
+
+#: inc/options-panel-redux.php:2764
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:99 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/widgets.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:12 inc/widgets/widgets.php:21
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:19
+msgid "Shop Pages"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-news.php:78
+msgid "Предыдущая новость"
+msgstr ""
+
+#: single-news.php:86
+msgid "Следующая новость"
+msgstr ""
+
+#: single-service.php:44
+msgid "Read  more"
+msgstr ""
+
+#: template-contact.php:68
+msgid "Thank you for your message!"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:28
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:61
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:66
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:31 woocommerce/cart/mini-cart.php:70
+#: woocommerce/checkout/review-order.php:57
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:68
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#: woocommerce/checkout/review-order.php:104
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:95
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135 woocommerce/cart/mini-cart.php:46
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:159
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:26
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:78
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:50
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:56
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:86
+msgid "Update"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:21
+msgid ""
+"There are some issues with the items in your cart. Please go back to the "
+"cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:25
+msgid "Return to cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:27
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+#: woocommerce/single-product/tabs/additional-information.php:24
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:25
+#: woocommerce/checkout/thankyou.php:45
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:29
+#: woocommerce/checkout/thankyou.php:50
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:33
+#: woocommerce/checkout/thankyou.php:62
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:38
+#: woocommerce/checkout/thankyou.php:68
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:45
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:47
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:29
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40 woocommerce/checkout/thankyou.php:82
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:58
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:62
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:66
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:70
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:79
+msgid "Current password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:88
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:97
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:52
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:137
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:46
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:22
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:63
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:27
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Description"
+msgstr ""
