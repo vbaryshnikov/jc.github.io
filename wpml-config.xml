@@ -1,0 +1,26 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">wayup_social_link</custom-field>
+        <custom-field action="translate">wayup_short_title</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">news</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">service</custom-type>
+        <custom-type translate="1">feature</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">service-type</taxonomy>
+        <taxonomy translate="1">news-category</taxonomy>
+        <taxonomy translate="1">feature-type</taxonomy>
+    </taxonomies>
+
+
+
+    <admin-texts>
+        <key name="wayup_options">
+            <key name="header_phone_label"/>
+            <key name="header_phone_label"/>
+        </key>
+    </admin-texts>
+</wpml-config>
